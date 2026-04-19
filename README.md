@@ -9,7 +9,7 @@ El sistema se basa en los siguientes pilares de la POO:
 3. **Polimorfismo:** Procesamiento dinámico de la flota mediante el método `monitorearFlota()`.
 4. **Encapsulamiento:** Atributos privados con métodos de acceso controlados.
 
-# Integrantes:
+# Integrantes
 1. Karina Bogarín.
 2. Kevin Giménez.
 
