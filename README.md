@@ -14,4 +14,5 @@ El sistema se basa en los siguientes pilares de la POO:
 2. Kevin Giménez.
 
 # **Para descargar el código fuente del Proyecto:**
-Ve a la página principal: https://github.com/karina-bogarin/EcosistemaLogisticoUNI.git, haz click en el botón de "<>Code" y a continuación, "Download ZIP".
+Enlace directo de descarga: https://github.com/karina-bogarin/EcosistemaLogisticoUNI/archive/refs/heads/main.zip
+O bien, ve a la página principal: https://github.com/karina-bogarin/EcosistemaLogisticoUNI.git, haz click en el botón de "<>Code" y a continuación, "Download ZIP".
