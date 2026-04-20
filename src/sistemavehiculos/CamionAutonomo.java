@@ -2,7 +2,7 @@
  * Esta clase hereda y sobreescribe los metodos de la clase {@link Vehiculo}
  * de modo a adaptar a las características de un camión autónomo.
  * 
- * @author Kevin Gimenez
+ * @authores Karina bogarin y Kevin Gimenez
  * @version 1.0
  * @since  04/2026
  */
