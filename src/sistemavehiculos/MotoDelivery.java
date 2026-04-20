@@ -2,7 +2,7 @@
  * Esta clase hereda de {@link Vehiculo} e implementa {@link IConectable}.
  * Se trata de una moto utilizada para realizar servicios de delivery.
  * 
- * @author Kevin Gimenez.
+ * @authores Karina Bogarin y Kevin Gimenez.
  * @version 1.0
  * @since 04/2026
  */
